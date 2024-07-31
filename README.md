@@ -1,4 +1,4 @@
-# TATA_Virtual_BI
+# TATA_Virtual_Internship
 
 Data Visualization : Empowering Business with Effective Insights
 
